@@ -2,6 +2,8 @@
 
 A curated list of articles, tutorials, courses, and tools to help you learn Web3, blockchain, and decentralized technologies.
 
+Check this cool repo as well https://github.com/austintgriffith/web2-to-web3-curriculum
+
 ---
 
 ## Table of Contents
